@@ -152,5 +152,5 @@ Este proyecto se enmarca en el curso/módulo **INTELIGENCIA ARTIFICIAL GENERATIV
 ---
 
 <p align="center">
-  <sub>Documentado por **Manus AI** · 2026</sub>
+  <sub>Documentado por **migueljerico@gmail.com** · 2026</sub>
 </p>
