@@ -10,6 +10,8 @@
 > **Ejercicio Práctico — IA Generativa y Mejora de la Productividad**  
 > Documentación completa del proceso de creación de **Estudio360 Smart Learn** con Lovable
 
+---
+
 ## 📸 Vista Previa de la Aplicación
 
 ![Captura de Studio 360 - Lovable](screenshots/Captura_Estudio360_Lovable.png)
